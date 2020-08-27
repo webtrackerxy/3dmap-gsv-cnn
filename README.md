@@ -1,4 +1,4 @@
-![3D Map](https://raw.githubusercontent.com/webtrackerxy/3dmap-gsv-cnn/master/img/map.png?token=AQQ3OJWNG7V2QDFC3PDDJVS7I4MZY)
+![3D Map](https://raw.githubusercontent.com/webtrackerxy/3dmap-gsv-cnn/master/img/map.png?token=AQQ3OJVXVOUIYP4T7AHZC4C7I4SAE)
 
 # 3dmap-gsv-cnn
 
@@ -15,7 +15,7 @@ A “field of view” filter was designed to remove duplicated tree detection wi
 Second, a 3D Map platform prototype for facilitating the urban tree monitoring and management was developed to interpret the results of tree records. With the help of webGL technology, contemporary browsers are able to show 3D buildings, terrain and other scene components together with the obtained tree records in an open source 3D GIS platform (CesiumJS) , the level of visualization is enhanced as all the detected trees are placed on the 3D digital terrain model. Consequently, it is easy for end-users to know the actual position of the trees and their distribution. 
 
 Below image shows the workflow.
- ![workflow](https://raw.githubusercontent.com/webtrackerxy/3dmap-gsv-cnn/master/img/workflow.png?token=AQQ3OJWNG7V2QDFC3PDDJVS7I4MZY)
+ ![workflow](https://raw.githubusercontent.com/webtrackerxy/3dmap-gsv-cnn/master/img/workflow.png?token=AQQ3OJWUSW6ZD3JH7JTTJR27I4ROA)
 
 #####A. Tree Localization
 1.  Download google street view images for selected roads
