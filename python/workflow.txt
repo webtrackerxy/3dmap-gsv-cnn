@@ -1,0 +1,29 @@
+Workflow
+
+Step 1:
+Set up DB
+
+- Road polygon
+- DB tables
+
+Step 2:
+Download data 
+- jpg and json
+- crop
+- merge
+
+Step 3:
+Prepare for Yolov3 Neural Network training ( Fundamental spervised training)
+- 
+
+Step 4:
+NN Training
+
+Step 5:
+Apply filter and spatial clustering 
+
+Step 6:
+Prepare for Map
+
+Step 7: 
+Merge the data into 3D Map visualization
