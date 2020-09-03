@@ -13,7 +13,7 @@ Download data
 - merge
 
 Step 3:
-Prepare for Yolov3 Neural Network training ( Fundamental spervised training)
+Prepare for Yolov3 Neural Network training ( Fundamental supervised training)
 - 
 
 Step 4:
@@ -26,4 +26,4 @@ Step 6:
 Prepare for Map
 
 Step 7: 
-Merge the data into 3D Map visualization
+Merge the data into 3D Map visualisation
