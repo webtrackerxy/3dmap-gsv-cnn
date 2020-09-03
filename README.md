@@ -2,7 +2,7 @@
 
 # 3dmap-gsv-cnn
 
-This repository consists the source code for my master thesis paper [3D Map System For Tree Monitoring In Hong Kong Using Google Street View Imagery And Deep Learning](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/765/2020/). You may watch the demo video [here](https://www.youtube.com/watch?v=_mwtc2FmyUw) and the [presentation slides](https://www.youtube.com/watch?v=_mwtc2FmyUw) .
+This repository consists the source code for my master thesis paper [3D Map System For Tree Monitoring In Hong Kong Using Google Street View Imagery And Deep Learning](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/765/2020/). You may watch the [demo video](https://www.youtube.com/watch?v=_mwtc2FmyUw) and the [presentation slides](https://github.com/webtrackerxy/3dmap-gsv-cnn/blob/master/docs/Project%20present.pdf) .
 
 My paper describes using Convolutional Neural Networks (CNNs) based object detector and classifier – YOLOv3 with pretrained model for detecting tree object from Google Street View Images. After applying "field of view" filter and spatial clustering, the average distance between the detected trees and ground truth data was achieved within 3 meters for selected roads used for the experiment. The result is plotted in 3D Map for visualizing the tree position and distribution. Source code and workflow have been uploaded to GitHub for sharing.
 
