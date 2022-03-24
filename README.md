@@ -1,4 +1,4 @@
-![3D Map](https://raw.githubusercontent.com/webtrackerxy/3dmap-gsv-cnn/master/img/map.png?token=AQQ3OJVXVOUIYP4T7AHZC4C7I4SAE)
+<img src="demo.gif" alt="demo" >
 
 # 3dmap-gsv-cnn
 
